@@ -3,7 +3,7 @@ This is a py script and VBS, in order to download the chaoxing course, which tea
 
 It is recommended to use with IDM
 
-#COURSE
+### COURSE
 
 After unzipping, double-click mooc_cookie.exe.
 
