@@ -3,11 +3,12 @@ This is a py script and VBS, in order to download the chaoxing course, which tea
 
 It is recommended to use with IDM
 
-#食用教程
-解压缩之后，双击mooc_cookie.exe 即可食用。
+#COURSE
 
-在课程中心，打开想要下载的课程，copy链接
+After unzipping, double-click mooc_cookie.exe.
 
-在浏览器控制台中执行copy(document.cookie);
+Copy link about the course you want to download.
 
-获取到的output.txt是下载链接
+Execute copy(document.cookie); in the console;
+
+The output.txt is the all download-links
